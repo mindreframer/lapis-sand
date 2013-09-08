@@ -1,9 +1,5 @@
 local num = tonumber(ngx.var.arg_num) or 0
--- memcached::set('hello', 'TRUE');
--- local hello = memcached:get('hello');
 
-
-local memcached = require "resty.memcached"
 local memc, err = memcached:new()
 if not memc then
     ngx.say("failed to instantiate memc: ", err)
@@ -38,9 +34,6 @@ end
 
 ngx.say("DOG is ", res)
 ngx.say("num is: ", num)
-
--- client = Memcached.new('localhost:11211', :binary_protocol => false)
-
 
 
 if num > 0 then
