@@ -39,3 +39,6 @@
   - http://bestlovejava.blogspot.de/2013/08/use-nginx-lua-memcache-grayscale-post.html
   - http://habrahabr.ru/search/page11/?q=nginx
   - http://habrahabr.ru/post/30662/
+
+## Just some LUA tips:
+  - [A chinese guy with plenty of good tips](http://blog.codingnow.com/eo/luaoeeeaeau/)
