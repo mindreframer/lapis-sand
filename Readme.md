@@ -42,3 +42,4 @@
 
 ## Just some LUA tips:
   - [A chinese guy with plenty of good tips](http://blog.codingnow.com/eo/luaoeeeaeau/)
+  - [Lua Styleguide](https://github.com/Olivine-Labs/lua-style-guide)
