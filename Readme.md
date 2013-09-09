@@ -43,3 +43,8 @@
 ## Just some LUA tips:
   - [A chinese guy with plenty of good tips](http://blog.codingnow.com/eo/luaoeeeaeau/)
   - [Lua Styleguide](https://github.com/Olivine-Labs/lua-style-guide)
+  - [Learn Lua in 15 minutes](http://tylerneylon.com/a/learn-lua/)
+
+
+## Some simple examples:
+  - https://github.com/solso/insomnia/blob/master/nginx.conf
