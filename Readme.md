@@ -44,6 +44,7 @@
   - [A chinese guy with plenty of good tips](http://blog.codingnow.com/eo/luaoeeeaeau/)
   - [Lua Styleguide](https://github.com/Olivine-Labs/lua-style-guide)
   - [Learn Lua in 15 minutes](http://tylerneylon.com/a/learn-lua/)
+  - [Some lua tricks you may not have known...](http://www.computercraft.info/forums2/index.php?/topic/3537-some-lua-tricks-you-may-not-have-known/)
 
 
 ## Some simple examples:
